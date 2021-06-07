@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Uma Prova de Conceito com o intuito de simular um aplicativo voltado à prospecção de novos Leads/Clientes para agentes de negócios através de Geolocalização, Rotas e Gerenciamento de ativos.</h4>
+<h4 align="center">O app é resultado do estudo de UI Design e desenvolvimento com Flutter</h4>
 
 <p align="center">
   <a href="https://badgen.net/pub/sdk-version/uuid">
@@ -33,7 +33,7 @@ Implementação Firebase prevista para futuras versões
 
 # Imagens do Protótipo
 
-Link Figma: [link](https://www.figma.com/file/KKJerHkN2WWTz5x1M78gCO/School-app?node-id=0%3A1e)
+[Visualizar projeto no Figma](https://www.figma.com/file/KKJerHkN2WWTz5x1M78gCO/School-app?node-id=0%3A1e)
 
 ![screenshot](https://raw.githubusercontent.com/eliezer-castro/login-phone/main/assets/ui/ui-figma.PNG)
 
