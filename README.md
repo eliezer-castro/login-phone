@@ -40,8 +40,8 @@ Implementação Firebase prevista para futuras versões
 
 # Mobile 📱
 
-<img src="https://raw.githubusercontent.com/eliezer-castro/login-phone/main/assets/ui/signup-mobile.png" alt="SS 1" width="300"/> 
-<img src="https://raw.githubusercontent.com/eliezer-castro/login-phone/main/assets/ui/signup-mobile-code.png" alt="SS 1" width="300"/>
+<img src="https://raw.githubusercontent.com/eliezer-castro/login-phone/main/assets/ui/signup-mobile.png" alt="SS 1" width="150"/> 
+<img src="https://raw.githubusercontent.com/eliezer-castro/login-phone/main/assets/ui/signup-mobile-code.png" alt="SS 1" width="150"/>
 
 </br></br>
 
