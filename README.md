@@ -25,20 +25,32 @@ No diretório do projeto, você pode rodar os comandos:
 
 ### `flutter pub get`
 
+</br>
+
 # Backend
 
 Implementação Firebase prevista para futuras versões
 
 # Imagens do Protótipo
 
-# Desktop
+## Web 💻
 
-![screenshot](https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/desktop/desktop-ss1.png)
-![screenshot](https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/desktop/desktop-ss2.png)
-![screenshot](https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/desktop/desktop-ss3.png)
-![screenshot](https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/desktop/desktop-ss4.png)
-![screenshot](https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/desktop/desktop-ss5.png)
+![screenshot](https://raw.githubusercontent.com/eliezer-castro/login-phone/main/assets/ui/signup-web.png)
+</br><br>
 
-# Mobile (Responsivo)
+# Mobile 📱
 
-<img src="https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/mobile/mobile-ss1.png" alt="SS 1" width="300"/> <img src="https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/mobile/mobile-ss2.png" alt="SS 2" width="300"/> <img src="https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/mobile/mobile-ss3.png" alt="SS 3" width="300"/> <img src="https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/mobile/mobile-ss4.png" alt="SS 4" width="300"/> <img src="https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/mobile/mobile-ss5.png" alt="SS 5" width="300"/>
+<img src="https://raw.githubusercontent.com/eliezer-castro/login-phone/main/assets/ui/signup-mobile.png" alt="SS 1" width="300"/> 
+<img src="https://raw.githubusercontent.com/eliezer-castro/login-phone/main/assets/ui/signup-mobile-code.png" alt="SS 1" width="300"/>
+
+</br></br>
+
+# License
+
+<p>Este projeto está licenciado sob a Licença MIT</p>
+
+# Contact
+
+Eliezer Gino - eliezergino@gmail.com
+
+Link do Projeto: [https://github.com/eliezer-castro/login-phone](https://github.com/eliezer-castro/login-phone)
