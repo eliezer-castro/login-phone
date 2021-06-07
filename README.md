@@ -33,7 +33,7 @@ Implementação Firebase prevista para futuras versões
 
 # Imagens do Protótipo
 
-Link Figma: [https://www.figma.com/file/KKJerHkN2WWTz5x1M78gCO/School-app?node-id=0%3A1](https://www.figma.com/file/KKJerHkN2WWTz5x1M78gCO/School-app?node-id=0%3A1e)
+Link Figma: [link](https://www.figma.com/file/KKJerHkN2WWTz5x1M78gCO/School-app?node-id=0%3A1e)
 
 ![screenshot](https://raw.githubusercontent.com/eliezer-castro/login-phone/main/assets/ui/ui-figma.PNG)
 
