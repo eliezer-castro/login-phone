@@ -33,6 +33,8 @@ Implementação Firebase prevista para futuras versões
 
 # Imagens do Protótipo
 
+![screenshot](https://raw.githubusercontent.com/eliezer-castro/login-phone/main/assets/ui/ui-figma.PNG)
+
 ## Web 💻
 
 ![screenshot](https://raw.githubusercontent.com/eliezer-castro/login-phone/main/assets/ui/signup-web.png)
