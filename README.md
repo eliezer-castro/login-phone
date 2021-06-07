@@ -1,16 +1,44 @@
-# sign_up_phone
+<h1 align="center">
+  <br>
+    Login com o Smartphone
+  <br>
+</h1>
 
-A new Flutter project.
+<h4 align="center">Uma Prova de Conceito com o intuito de simular um aplicativo voltado à prospecção de novos Leads/Clientes para agentes de negócios através de Geolocalização, Rotas e Gerenciamento de ativos.</h4>
 
-## Getting Started
+<p align="center">
+  <a href="https://badgen.net/pub/sdk-version/uuid">
+    <img src="https://badgen.net/pub/sdk-version/uuid"
+         alt="dart">
+  </a>
+  <a href="https://badgen.net/pub/v/kt_dart"><img src="https://badgen.net/pub/v/kt_dart"></a>
 
-This project is a starting point for a Flutter application.
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+</br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Inicialização do projeto
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+No diretório do projeto, você pode rodar os comandos:
+
+### `flutter run`
+
+### `flutter pub get`
+
+# Backend
+
+Implementação Firebase prevista para futuras versões
+
+# Imagens do Protótipo
+
+# Desktop
+
+![screenshot](https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/desktop/desktop-ss1.png)
+![screenshot](https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/desktop/desktop-ss2.png)
+![screenshot](https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/desktop/desktop-ss3.png)
+![screenshot](https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/desktop/desktop-ss4.png)
+![screenshot](https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/desktop/desktop-ss5.png)
+
+# Mobile (Responsivo)
+
+<img src="https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/mobile/mobile-ss1.png" alt="SS 1" width="300"/> <img src="https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/mobile/mobile-ss2.png" alt="SS 2" width="300"/> <img src="https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/mobile/mobile-ss3.png" alt="SS 3" width="300"/> <img src="https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/mobile/mobile-ss4.png" alt="SS 4" width="300"/> <img src="https://raw.githubusercontent.com/hdalmora/lead-agents/main/project-images/mobile/mobile-ss5.png" alt="SS 5" width="300"/>
